@@ -1,0 +1,5 @@
+{
+  "name": "Smart Study Assistant",
+  "description": "An AI-powered study tool that converts lecture notes into interactive mock tests with automated grading and performance analytics.",
+  "requestFramePermissions": []
+}
